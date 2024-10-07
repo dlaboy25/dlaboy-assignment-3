@@ -1,0 +1,1 @@
+In this assignment I implemented the Singular Value Decomposition (SVD) algorithm from scratch. I also used the SVD to perform dimensionality reduction on a dataset, exploring the effect of the number of dimensions on the performance of a classifier, and visualized my results for comparison and analysis.
